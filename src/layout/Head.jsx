@@ -3,7 +3,7 @@ import Nav from "../pages/Nav";
 
 const Head = () => {
     return (
-        <div>
+        <div className="">
             <Nav></Nav>
             <Outlet></Outlet>
         </div>
