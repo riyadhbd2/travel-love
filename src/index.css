@@ -2,14 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-.bg-custom-background {
+/* .bg-custom-background {
     background-image: url('../public/main-bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
-  }
+  } */
 
 .color-logo{
-  filter: invert(100%) sepia(0%) saturate(7483%) hue-rotate(222deg) brightness(111%) contrast(104%);
+  /* filter: invert(100%) sepia(0%) saturate(7483%) hue-rotate(222deg) brightness(111%) contrast(104%); */
   height: 50px;
 }
